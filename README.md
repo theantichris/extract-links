@@ -1,3 +1,3 @@
-# extract-links
+# links
 
-Package extract-links provides a link-extraction function.
+Package links provides a link extraction function.

@@ -1,3 +1,3 @@
-module github.com/theantichris/extract-links
+module github.com/theantichris/links
 
 go 1.13
